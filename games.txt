@@ -1,4 +1,5 @@
-Sonic 1.bin
+Sonic 1.md
+Sonic 2.md
+Sonic 3 & Knuckles.md
 Sonic 2 Nick Arcade.bin
 Sonic 2 Simon Wai.bin
-Sonic 3.md
