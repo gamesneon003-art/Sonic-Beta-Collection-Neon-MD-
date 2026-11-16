@@ -8,3 +8,4 @@ Sonic 2 Simon Wai.bin
 Sonic 3 Prototype.md
 Sonic 1 Master System.sms
 Sonic 2 Master System.sms
+Sonic 3D Blast.md
