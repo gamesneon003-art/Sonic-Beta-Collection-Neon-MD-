@@ -6,3 +6,5 @@ Sonic 1 Prototype.bin
 Sonic 2 Nick Arcade.bin
 Sonic 2 Simon Wai.bin
 Sonic 3 Prototype.md
+Sonic 1 Master System.sms
+Sonic 2 Master System.sms
